@@ -31,6 +31,8 @@ Software Engineer | Data Scientist
 
 <a href="http://www.github.com/Niekelle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Niekelle&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Niekelle"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Niekelle&bg_color=000000&color=ffffff&line=ec4899&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="http://www.github.com/Niekelle"><img src="https://activity-graph.herokuapp.com/graph?username=Niekelle&bg_color=0d1117&color=ffffff&line=00c853&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" /></a>
+
 
 <a href="https://github.com/Niekelle" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niekelle&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
