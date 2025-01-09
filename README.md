@@ -25,14 +25,12 @@ Software Engineer | Data Scientist
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>Stats</b>
 
 <a href="http://www.github.com/Niekelle"><img src="https://github-readme-stats.vercel.app/api?username=Niekelle&show_icons=true&hide=issues,&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="Niekelle's GitHub stats" /></a>
 
-<a href="http://www.github.com/Niekelle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Niekelle&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<!-- <a href="http://www.github.com/Niekelle"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Niekelle&bg_color=0d1117&color=ffffff&line=00c853&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" /></a> 
 
 
-<!-- <a href="http://www.github.com/Niekelle"><img src="https://activity-graph.herokuapp.com/graph?username=Niekelle&bg_color=0d1117&color=ffffff&line=00c853&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" /></a> -->
-
-
-<a href="https://github.com/Niekelle" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niekelle&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/Niekelle" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niekelle&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
